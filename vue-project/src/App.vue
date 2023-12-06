@@ -52,7 +52,7 @@ export default {
         }
       }
       this.message = 'Draw'
-      return false
+      return true
     },
     restart() {
       this.board = [
