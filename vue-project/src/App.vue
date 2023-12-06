@@ -62,7 +62,7 @@ export default {
       ]
       this.turn = 'X'
       message = null
-      game_over_bool = true
+      game_over_bool = false
     }
   }
 }
